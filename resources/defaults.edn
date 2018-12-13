@@ -1,0 +1,2 @@
+{:schema-extension ".avsc"
+ :pretty-print-schemas true}
